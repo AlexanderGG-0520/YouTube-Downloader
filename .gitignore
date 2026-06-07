@@ -1,0 +1,10 @@
+downloaded/*
+!downloaded/.gitkeep
+tmp/
+*.part
+*.ytdl
+*.temp
+*.tmp
+*.webm
+*.mp4
+*.mp3
